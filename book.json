@@ -20,7 +20,7 @@
         "github@^2.0.0",
         "github-buttons@2.1.0",
         "edit-link@^2.0.2",
-        "disqus@^0.1.0",
+        "-disqus@^0.1.0",
         "prism@^2.1.0",
         "prism-themes@^0.0.2",
         "advanced-emoji@^0.2.1",
@@ -57,7 +57,7 @@
 
     "pluginsConfig": {
         "theme-default": {
-            "showLevel": true
+            "showLevel": false
         },
         "disqus": {
             "shortName": "gitbookuse"
@@ -68,10 +68,10 @@
             ]
         },
         "github": {
-            "url": "https://github.com/zhangjikai/gitbook-use"
+            "url": "https://github.com/zj1123581321/WhoCanYouTrust_Translate"
         },
         "github-buttons": {
-            "repo": "zhangjikai/gitbook-use",
+            "repo": "zj1123581321/WhoCanYouTrust_Translate",
             "types": [
                 "star"
             ],
@@ -126,7 +126,7 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/zhangjikai/gitbook-use/edit/master",
+            "base": "https://zj1123581321.gitbook.io/whocanyoutrust-translate",
             "label": "Edit This Page"
         },
 		
@@ -152,12 +152,8 @@
         "versions": {
             "options": [
                 {
-                    "value": "http://gitbook.zhangjikai.com",
+                    "value": "https://zj1123581321.gitbook.io",
                     "text": "v3.2.3"
-                },
-                {
-                    "value": "http://gitbook.zhangjikai.com/v2/",
-                    "text": "v2.6.4"
                 }
             ]
         }
