@@ -8,11 +8,11 @@
 
 - [x] Epigraph
 
+- [x] Who Can You Trust
+
 - [x] Evolution of Trust
 
 - [x] Introduction
-
-- [x] Who Can You Trust
 
 ## Sections
 
@@ -28,7 +28,7 @@
 
 - [ ] Part6
 
-- [ ] Part7(processing)
+- [ ] Part7(**processing**)
 
 - [ ] Part8
 
