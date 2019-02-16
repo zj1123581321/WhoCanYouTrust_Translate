@@ -1,49 +1,49 @@
 # 翻译进度及计划
 
-- [x] First Part 
+## First Part 
 
-  - [ ] Copyright
+- [x] Copyright
 
-  - [ ] Dedication
+- [x] Dedication
 
-  - [ ] Epigraph
+- [x] Epigraph
 
-  - [ ] Evolution of Trust
+- [x] Evolution of Trust
 
-  - [ ] Introduction
+- [x] Introduction
 
-  - [ ] Who Can You Trust
+- [x] Who Can You Trust
 
-- [ ] Sections
+## Sections
 
-  - [ ] Part1
+- [ ] Part1
 
-  - [ ] Part2
+- [ ] Part2
 
-  - [ ] Part3
+- [ ] Part3
 
-  - [ ] Part4
+- [ ] Part4
 
-  - [ ] Part5
+- [ ] Part5
 
-  - [ ] Part6
+- [ ] Part6
 
-  - [ ] Part7(processing)
+- [ ] Part7(processing)
 
-  - [ ] Part8
+- [ ] Part8
 
-  - [ ] Part9
+- [ ] Part9
 
-  - [ ] Part10
+- [ ] Part10
 
-- [ ] Last Part
+## Last Part
 
-  - [ ] Acknowledgements
+- [ ] Acknowledgements
 
-  - [ ] Author
+- [ ] Author
 
-  - [ ] Conclusion
+- [ ] Conclusion
 
-  - [ ] Glossary
+- [ ] Glossary
 
-  - [ ] Note and Further Reading
+- [ ] Note and Further Reading
