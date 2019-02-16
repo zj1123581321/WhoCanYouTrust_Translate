@@ -1,6 +1,6 @@
 # 七 评价：你的生活能得到一个好的信用分数么
 
-# 七 评价：你的生活能得到一个好的信用分数么
+This is a test for travls
 
 > On 14 June 2014, the State Council of China published an ominous-sounding document called ‘Planning Outline for the Construction of a Social Credit System’.[^1] In the way of Chinese policy documents, it was a lengthy and rather dry affair but it contained a radical idea. What if there was a national trust score that rated the kind of citizen you were? 
 
