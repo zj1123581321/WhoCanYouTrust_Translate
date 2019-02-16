@@ -32,7 +32,7 @@
         "splitter@^0.0.8",
         "mermaid-gb3@2.1.0",
         "tbfed-pagefooter@^0.0.1",
-        "expandable-chapters-small@^0.1.7",
+        "-expandable-chapters-small@^0.1.7",
         "sectionx@^3.1.0",
         "donate@^1.0.2",
         "local-video@^1.0.1",
