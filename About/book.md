@@ -1,6 +1,4 @@
-# 书籍介绍
-
-## [书籍简介](https://book.douban.com/subject/27162890/) 
+# [书籍介绍](https://book.douban.com/subject/27162890/)
 
 > In this revolutionary book, world-renowned trust expert Rachel Botsman reveals that we are at the tipping point of one of the biggest social transformations in human history--with fundamental consequences for everyone. A new world order is emerging: we might have lost faith in institutions and leaders, but millions of people rent their homes to total strangers, exchange digital currencies, or find themselves trusting a bot. This is the age of "distributed trust," a paradigm shift driven by innovative technologies that are rewriting the rules of an all-too-human relationship.
 >
