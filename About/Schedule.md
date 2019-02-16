@@ -14,7 +14,7 @@
   - [ ] Part4
   - [ ] Part5
   - [ ] Part6
-  - [ ] Part7
+  - [ ] Part7(processing)
   - [ ] Part8
   - [ ] Part9
   - [ ] Part10
