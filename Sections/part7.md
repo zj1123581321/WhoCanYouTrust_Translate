@@ -226,7 +226,7 @@ Super Sad 里有很多小玩意，伦尼戴的是一款名叫 Apparati 的脖子
 
 > Indeed, if we are not vigilant, distributed trust could become networked shame. And life will become one endless popularity contest, with us all feverishly vying for the highest ratings that only a few can attain.
 
-
+---
 
 
 

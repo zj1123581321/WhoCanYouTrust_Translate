@@ -10,5 +10,9 @@
 
 点击左上角“Home”也可以关注我的公众号 **[ztbylx](http://markdown.lixingzhang.site/markdown/20190216/8tbVftvAfXlg.png?imageslim)**，获取更多优质内容。
 
+---
+
+[**当前翻译章节**](https://zj1123581321.github.io/WhoCanYouTrust_Translate/About/Schedule.html)
+
 
 

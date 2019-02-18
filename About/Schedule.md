@@ -2,39 +2,39 @@
 
 ## First Part 
 
-- [x] Copyright
+- [x] [Copyright](https://zj1123581321.github.io/WhoCanYouTrust_Translate/First%20Part/Copyright.html)
 
-- [x] Dedication
+- [x] [Dedication](https://zj1123581321.github.io/WhoCanYouTrust_Translate/First%20Part/Dedication.html)
 
-- [x] Epigraph
+- [x] [Epigraph](https://zj1123581321.github.io/WhoCanYouTrust_Translate/First%20Part/Epigraph.html)
 
-- [x] Who Can You Trust
+- [x] [Who Can You Trust](https://zj1123581321.github.io/WhoCanYouTrust_Translate/First%20Part/Who%20Can%20You%20Trust.html)
 
-- [x] Evolution of Trust
+- [x] [Evolution of Trust](https://zj1123581321.github.io/WhoCanYouTrust_Translate/First%20Part/Evolution%20of%20Trust.html)
 
-- [x] Introduction
+- [x] [Introduction](https://zj1123581321.github.io/WhoCanYouTrust_Translate/First%20Part/Introduction.html)
 
 ## Sections
 
-- [ ] Part1
+- [ ] [Part1](https://zj1123581321.github.io/WhoCanYouTrust_Translate/Sections/part1.html) 
 
-- [ ] Part2
+- [ ] [Part2](https://zj1123581321.github.io/WhoCanYouTrust_Translate/Sections/part2.html) 
 
-- [ ] Part3
+- [ ] [Part3](https://zj1123581321.github.io/WhoCanYouTrust_Translate/Sections/part3.html) 
 
-- [ ] Part4
+- [ ] [Part4](https://zj1123581321.github.io/WhoCanYouTrust_Translate/Sections/part4.html) 
 
-- [ ] Part5
+- [ ] [Part5](https://zj1123581321.github.io/WhoCanYouTrust_Translate/Sections/part5.html) 
 
-- [ ] Part6
+- [ ] [Part6](https://zj1123581321.github.io/WhoCanYouTrust_Translate/Sections/part6.html) 
 
-- [ ] Part7( **processing** 
+- [ ] [Part7](https://zj1123581321.github.io/WhoCanYouTrust_Translate/Sections/part7.html)( **processing** ）
 
-- [ ] Part8
+- [ ] [Part8](https://zj1123581321.github.io/WhoCanYouTrust_Translate/Sections/part8.html)
 
-- [ ] Part9
+- [ ] [Part9](https://zj1123581321.github.io/WhoCanYouTrust_Translate/Sections/part9.html) 
 
-- [ ] Part10
+- [ ] [Part10](https://zj1123581321.github.io/WhoCanYouTrust_Translate/Sections/part10.html)
 
 ## Last Part
 
@@ -46,4 +46,4 @@
 
 - [ ] Glossary
 
-- [ ] Note and Further Reading
+- [x] Note and Further Reading
