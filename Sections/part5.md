@@ -1,5 +1,7 @@
 # 五 但她看起来更像那个角色
 
+> 这是一个关于欺骗性外表的警世故事，以及揭示伪造者和欺诈行为的技术。
+
 > One day in the spring of 1983, not long after I turned five, an unfamiliar woman entered our house. She was neither a family member nor friend. Her name was Doris, she was in her late twenties and she was starting as our mother’s help. She came from Glasgow and had a thick Scottish accent. Her o’s sounded like ‘ae’ and she rolled her r’s. It was gently lilting, almost sing-song.
 >
 > Doris had a mop of mousy brown hair and wore thin steel-rim glasses. She was plump with a ruddy face. She was the type of person you could imagine going for a brisk walk on a cold day and then sinking into a comfy chair, content with a cup of tea and a shortbread biscuit.

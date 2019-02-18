@@ -1,5 +1,7 @@
 # 九 区块链Ⅰ：数字淘金热
 
+> 从“费”到比特币，实现货币自由的漫漫长路。这对这座城市意味着什么?
+
 > In the southern expanse of the Pacific Ocean, around 1,100 miles from the Philippines, lies a tiny island called Yap. Surrounded by a shallow lagoon of emerald waters and long stretches of coral reef, Yap is a paradise for divers. It’s one of the few places in the world where you can swim with a large population of manta rays, graceful creatures that cruise through the calm clear channels all year round.
 >
 > Often referred to as ‘The Forbidden Island’, its people are proud of their vibrant traditions and warm indigenous culture. Women walk around bare-breasted, frequently wearing only grass skirts, their bodies rubbed in a mixture of coconut oil and turmeric. The men, at ease in red loincloths, carry woven handbags containing their betel-nut mix–a narcotic chewed with lime. Everything on Yap happens on ‘island time’. But the island is famous for something other than its beauty and history. It’s famous for its use of ancient stone money known as ‘fei’ (or sometimes ‘rai’), the primordial bitcoin.

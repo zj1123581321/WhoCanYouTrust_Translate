@@ -1,5 +1,7 @@
 # 十 区块链Ⅱ：真相的机器
 
+> 区块链的黄金承诺:夸大其词还是数字未来值得信赖的关键?
+
 > In the early hours of Friday, 17 June 2016, an unknown thief, or thieves, pilfered more than $60 million of a digital currency.[1](#1___The_Dao_Attacked__Code_Issue) It wasn’t bitcoin they made off with but a rival cryptocurrency called ether, or eth for short.
 >
 > Within hours of the online ‘heist’ kicking in, the alarm went off. ‘EMERGENCY ALERT!’ a community organizer wrote in the DAO slack channel.[*](#__Slack_is_a_communication_and_m) ‘The DAO is being attacked. It has been going on for 3–4 hours. It is draining ETH (the cryptocurrency ETHER) at a rapid rate. This is not a drill.’ People in chat rooms responded instantly: ‘Oh shit’, ‘Uh oh’, or as one anonymous person wrote, ‘:fire: :fire: :fire: :fire: NOBODY PANIC :fire: :fire: :fire: :fire:’[2](#2__See__Ether_Price_Plummets__Et) It was as if somebody had set a bomb under the Bank of England. The target was the DAO, a particular entity in this case, but one that takes its name from the general acronym, Decentralized Autonomous Organization.

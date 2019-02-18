@@ -1,5 +1,7 @@
 # 七 评价：你的生活能得到一个好的信用分数么
 
+> 当反乌托邦科幻小说变成现实，你的每一个小举动都被评价，谁赢谁输?
+
 > On 14 June 2014, the State Council of China published an ominous-sounding document called ‘Planning Outline for the Construction of a Social Credit System’.[^1] In the way of Chinese policy documents, it was a lengthy and rather dry affair but it contained a radical idea. What if there was a national trust score that rated the kind of citizen you were? 
 
 2014年6月14日，国务院发布了《社会信用体系建设规划纲要》[^1]。从中国的政策文件来看，这是一件冗长而枯燥的事情，但它包含了一个激进的观点。如果有一个国民信用的分数来评价你是什么样的公民呢?

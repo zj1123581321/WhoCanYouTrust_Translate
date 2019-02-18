@@ -1,5 +1,7 @@
 # 四 责任止于何处
 
+> 当信任在“自我管理”的数字世界崩溃，谁来负责？
+
 > On 20 February 2016, in Kalamazoo, Michigan, a deadly rampage played out. Over the course of five hours, a forty-five-year-old Uber driver named Jason Brian Dalton became a mass killer, shooting six people dead and leaving two seriously injured. In between the separate incidents of bloodshed, Dalton went back to routinely picking up Uber fares.
 >
 > The shootings began around 5.40 p.m. EST on a Saturday evening and the first victim was twenty-five-year-old Tiana Carruthers.[1](#1__This_GQ_article_covering_the) Carruthers was crossing a parking lot with five children, including her young daughter, when a silver Chevy Equinox with Dalton at the wheel veered towards her. Dalton rolled down his window. He asked if her name was Maisie (the name of the passenger he was circling around the estate trying to find and pick up was Maci.) ‘No, I am not that person,’ Carruthers replied.

@@ -1,5 +1,7 @@
 # 六 名誉是一切，即使在暗网
 
+> 在良好的客户服务方面，暗网上的毒品交易者可以教给我们什么？
+
 > Depending on how strictly you want to define the terms of an ‘online trade’, you could claim that the first thing to be bought and sold on the internet wasn’t a CD or pizza, it was a small bag of weed. In the early 1970s, a group of students at Stanford University and Massachusetts Institute of Technology made an online drug deal via ARPANET, the precursor to the internet we know today.[1](#1__How_we_view_e_commerce_now_is) Since then, it has become remarkably fast and easy to score drugs online, through the so-called ‘darknet’.
 >
 > You can’t get to the darknet using your regular web browser; it can only be accessed via an anonymizing software called Tor (an acronym for ‘The Onion Router’). Instead of a web address ending in a .com or .org, darknet URLs are a hash of random letters and numbers that end in .onion. Originally developed by the US Naval Research Laboratory for the purpose of protecting government communications, Tor has become a handy privacy tool for journalists and human rights organizations that need to mask their browsing activity and hide their identity and location. Of course, its subterranean nature means it also attracts criminals who can exchange drugs and other illegal goods, from guns to child pornography, online and in relative obscurity.

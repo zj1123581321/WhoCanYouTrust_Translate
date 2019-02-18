@@ -1,5 +1,9 @@
 # 三 惊人的相似
 
+> 从寿司到自动驾驶汽车——在说服人们相信新想法方面有一些令人惊讶的经验
+
+
+
 > My parents, for the most part, didn’t believe in cocooning their children in cotton wool. They wanted my brother and me to learn how to navigate our world through first-hand experience, by boldness and trial and error, even if it hurt a little. If we fell from a climbing frame, off a bike, a wall or even a horse, there wasn’t a collective gasp. We were one of those families where minor calamities were greeted with a no-nonsense, ‘Straight back up.’
 >
 > But there were certain things, dangerous things, my parents taught us to avoid. Don’t put your fingers in the plug socket; don’t answer the front door to people you don’t know; don’t put plastic bags over your face; don’t touch the fire or boiling kettle; don’t cross the road before looking both ways; and so on.

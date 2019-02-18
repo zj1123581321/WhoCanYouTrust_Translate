@@ -1,5 +1,7 @@
 # 八 我们信任的机器人
 
+> 但是，我们应该……我们如何让它们变得合乎道德呢?
+
 > Bert the bot looked sad. He had dropped an egg on the floor, failing in his simple task of helping to prepare an omelette, and startling the human cooks beside him who probably thought they could rely on a robot not to fumble. Bert’s pouty lips turned down, his blue eyes widened and his eyebrows furrowed. ‘I’m sorry,’ he said. The bot wanted to make amends and try again.
 >
 > But what would it take for the humans to give Bert a second chance? If a robot makes a mistake, how can it recover our trust? This is the question a team of researchers at University College London and the University of Bristol set out to investigate in 2016. Adriana Hamacher, Kerstin Eder, Nadia Bianchi-Berthouze and Anthony Pipe devised an experiment called ‘Believing in BERT’ in which three robotic assistants would help a group of participants (‘real’ humans) to make omelettes by passing eggs, oil and salt. Bert A was super-efficient and faultless but couldn’t talk. Bert B was also mute but not perfect, dropping some of the eggs. Bert C was the clumsy bot above but he had facial expressions and could apologize for his mistake.
