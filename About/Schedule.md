@@ -28,7 +28,7 @@
 
 - [ ] Part6
 
-- [ ] Part7(**processing**)
+- [ ] Part7( **processing** 
 
 - [ ] Part8
 
