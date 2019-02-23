@@ -102,7 +102,7 @@
 
 >  Who Can You Trust? charts a theory, a bold claim: we are at the start of the third, biggest trust revolution in the history of humankind. When we look at the past, we can see that trust falls into distinct chapters. The first was local, when we lived within the boundaries of small local communities where everyone knew everyone else. The second was institutional, a kind of intermediated trust that ran through a variety of contracts, courts and corporate brands, freeing commerce from local exchanges and creating the foundation necessary for an organized industrial society. And the third, still very much in its infancy, is distributed.
 
-你能信任谁? 说一个理论，一个大胆的主张：我们正处于人类历史上第三次、也是最大的信任革命的开端。当我们回顾过去，我们可以看到信任分为不同的阶段。第一个是当地性的，当我们生活在一个小的地方社区的边界里，在那里每个人都认识其他人。第二种是公共机构的的，一种通过各种合同、法院和企业品牌运作的中介信托，将商业从地方交流中解放出来，为有组织的工业社会创造必要的基础。第三个，仍然处于起步阶段，是分布式的。
+你能信任谁? 说一个理论，一个大胆的主张：我们正处于人类历史上第三次、也是最大的信任革命的开端。当我们回顾过去，我们可以看到信任分为不同的阶段。第一个是当地性的，当我们生活在一个小的地方社区的边界里，在那里每个人都认识其他人。第二个是公共机构的，一种通过各种合同、法院和企业品牌运作的中介信托，将商业从地方交流中解放出来，为有组织的工业社会创造必要的基础。第三个，仍然处于起步阶段，是分布式的。
 
 >  A trust shift need not mean the previous forms will be completely superseded; only that the new form will become more dominant. For example, a small farming community may continue to rely on centuries-old local trust in some matters, but turn more often to the new town court to handle others.
 
