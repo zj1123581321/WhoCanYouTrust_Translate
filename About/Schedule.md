@@ -28,9 +28,9 @@
 
 - [ ] [Part6](https://zj1123581321.github.io/WhoCanYouTrust_Translate/Sections/part6.html) 
 
-- [ ] [Part7](https://zj1123581321.github.io/WhoCanYouTrust_Translate/Sections/part7.html)( **processing** ）
+- [x] [Part7](https://zj1123581321.github.io/WhoCanYouTrust_Translate/Sections/part7.html)
 
-- [ ] [Part8](https://zj1123581321.github.io/WhoCanYouTrust_Translate/Sections/part8.html)
+- [ ] [Part8](https://zj1123581321.github.io/WhoCanYouTrust_Translate/Sections/part8.html)( **processing** ）
 
 - [ ] [Part9](https://zj1123581321.github.io/WhoCanYouTrust_Translate/Sections/part9.html) 
 
